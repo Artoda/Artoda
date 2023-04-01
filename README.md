@@ -5,5 +5,5 @@ Meu nome é Rômulo, atualmente estou estudando no projeto Serract para aprender
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artoda&show_icons=true&theme=radical)
 
  
- ![Snake animation](https://github.com/Artoda/Artoda/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Artoda/Artoda/blob/output/github-contribution-grid-snake.svg)
 
