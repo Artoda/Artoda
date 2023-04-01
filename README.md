@@ -1,4 +1,4 @@
-<h2 align="center">Bem vindo a minha casa!</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo(a)+a+minha+casa🤙;Hello+welcome+to+my+home🤙;Ciao+benvenuto+al+mi+casa🤙;+:%29)](https://git.io/typing-svg)
 
 🤡 Meu nome é Rômulo, atualmente estou estudando no projeto Serract para aprender a me desenvolver como programador e com isso conseguir usar a tecnologia para ajudar e melhorar a vida das pessoas!!!
 
@@ -6,8 +6,11 @@
 
 🦆 Eu gosto de pato :)
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> 
+ ## 💻Tecnologias que uso:
+
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=white)&nbsp;
+![Postgree](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artoda&show_icons=true&locale=pt-br&layout=compact&theme=radical" alt="Artoda" /></p>
 
