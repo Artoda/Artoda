@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC0CB&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo(a)+a+minha+casa🤙;Hello+welcome+to+my+home🤙;Ciao+benvenuto+al+mi+casa🤙;+:%29)](https://git.io/typing-svg)
 
-🤡 Meu nome é Rômulo, atualmente estou estudando no projeto Serract para aprender a me desenvolver como programador e com isso conseguir usar a tecnologia para ajudar e melhorar a vida das pessoas!!!
+🤡 Meu nome é Rômulo, atualmente estou estudando no projeto Serrtec para aprender a me desenvolver como programador e com isso conseguir usar a tecnologia para ajudar e melhorar a vida das pessoas!!!
 
 📖 Cursando Residência em TIC pelo Serratec 2023
 
